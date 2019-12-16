@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.0\1. Sum Matrix Elements.exe
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.0\1. Sum Matrix Elements.deps.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.0\1. Sum Matrix Elements.runtimeconfig.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.0\1. Sum Matrix Elements.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.0\1. Sum Matrix Elements.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.0\1. Sum Matrix Elements.pdb
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.0\1. Sum Matrix Elements.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.0\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.0\1. Sum Matrix Elements.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.0\1. Sum Matrix Elements.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.0\1. Sum Matrix Elements.pdb

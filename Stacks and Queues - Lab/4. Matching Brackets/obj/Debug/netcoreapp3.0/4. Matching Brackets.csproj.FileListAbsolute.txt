@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.0\4. Matching Brackets.exe
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.0\4. Matching Brackets.deps.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.0\4. Matching Brackets.runtimeconfig.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.0\4. Matching Brackets.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.0\4. Matching Brackets.dll
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.0\4. Matching Brackets.pdb
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.0\4. Matching Brackets.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.0\4. Matching Brackets.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.0\4. Matching Brackets.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.0\4. Matching Brackets.dll
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.0\4. Matching Brackets.pdb

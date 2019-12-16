@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.0\6. Jagged-Array Modification.exe
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.0\6. Jagged-Array Modification.deps.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.0\6. Jagged-Array Modification.runtimeconfig.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.0\6. Jagged-Array Modification.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.0\6. Jagged-Array Modification.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.0\6. Jagged-Array Modification.pdb
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.0\6. Jagged-Array Modification.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.0\6. Jagged-Array Modification.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.0\6. Jagged-Array Modification.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.0\6. Jagged-Array Modification.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.0\6. Jagged-Array Modification.pdb

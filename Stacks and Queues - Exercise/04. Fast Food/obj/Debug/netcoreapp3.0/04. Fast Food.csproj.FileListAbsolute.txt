@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.0\04. Fast Food.exe
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.0\04. Fast Food.deps.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.0\04. Fast Food.runtimeconfig.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.0\04. Fast Food.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.0\04. Fast Food.dll
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.0\04. Fast Food.pdb
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.0\04. Fast Food.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.0\04. Fast Food.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.0\04. Fast Food.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.0\04. Fast Food.dll
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.0\04. Fast Food.pdb

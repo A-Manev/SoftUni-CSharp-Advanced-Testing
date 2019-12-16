@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.0\1. Diagonal Difference.exe
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.0\1. Diagonal Difference.deps.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.0\1. Diagonal Difference.runtimeconfig.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.0\1. Diagonal Difference.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.0\1. Diagonal Difference.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.0\1. Diagonal Difference.pdb
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.0\1. Diagonal Difference.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.0\1. Diagonal Difference.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.0\1. Diagonal Difference.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.0\1. Diagonal Difference.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.0\1. Diagonal Difference.pdb

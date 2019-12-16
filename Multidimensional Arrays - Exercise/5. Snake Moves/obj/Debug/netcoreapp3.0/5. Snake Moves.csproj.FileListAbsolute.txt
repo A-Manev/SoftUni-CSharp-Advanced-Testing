@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.0\5. Snake Moves.exe
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.0\5. Snake Moves.deps.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.0\5. Snake Moves.runtimeconfig.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.0\5. Snake Moves.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.0\5. Snake Moves.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.0\5. Snake Moves.pdb
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.0\5. Snake Moves.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.0\5. Snake Moves.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.0\5. Snake Moves.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.0\5. Snake Moves.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.0\5. Snake Moves.pdb

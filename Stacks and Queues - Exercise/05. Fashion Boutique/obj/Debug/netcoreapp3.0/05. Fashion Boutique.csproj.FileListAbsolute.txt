@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp3.0\05. Fashion Boutique.exe
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp3.0\05. Fashion Boutique.deps.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp3.0\05. Fashion Boutique.runtimeconfig.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp3.0\05. Fashion Boutique.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp3.0\05. Fashion Boutique.dll
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp3.0\05. Fashion Boutique.pdb
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp3.0\05. Fashion Boutique.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp3.0\05. Fashion Boutique.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp3.0\05. Fashion Boutique.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp3.0\05. Fashion Boutique.dll
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp3.0\05. Fashion Boutique.pdb

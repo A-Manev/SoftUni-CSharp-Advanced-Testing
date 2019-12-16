@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.0\7. Knight Game.exe
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.0\7. Knight Game.deps.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.0\7. Knight Game.runtimeconfig.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.0\7. Knight Game.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.0\7. Knight Game.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.0\7. Knight Game.pdb
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.0\7. Knight Game.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.0\7. Knight Game.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.0\7. Knight Game.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.0\7. Knight Game.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.0\7. Knight Game.pdb

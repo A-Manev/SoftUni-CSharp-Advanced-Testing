@@ -1,0 +1,10 @@
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\netcoreapp3.0\06. Songs Queue.exe
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\netcoreapp3.0\06. Songs Queue.deps.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\netcoreapp3.0\06. Songs Queue.runtimeconfig.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\netcoreapp3.0\06. Songs Queue.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\netcoreapp3.0\06. Songs Queue.dll
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\netcoreapp3.0\06. Songs Queue.pdb
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\netcoreapp3.0\06. Songs Queue.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\netcoreapp3.0\06. Songs Queue.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\netcoreapp3.0\06. Songs Queue.dll
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\netcoreapp3.0\06. Songs Queue.pdb

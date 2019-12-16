@@ -1,0 +1,10 @@
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\DemoTesting\bin\Debug\netcoreapp3.0\DemoTesting.exe
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\DemoTesting\bin\Debug\netcoreapp3.0\DemoTesting.deps.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\DemoTesting\bin\Debug\netcoreapp3.0\DemoTesting.runtimeconfig.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\DemoTesting\bin\Debug\netcoreapp3.0\DemoTesting.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\DemoTesting\bin\Debug\netcoreapp3.0\DemoTesting.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\DemoTesting\bin\Debug\netcoreapp3.0\DemoTesting.pdb
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\DemoTesting\obj\Debug\netcoreapp3.0\DemoTesting.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\DemoTesting\obj\Debug\netcoreapp3.0\DemoTesting.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\DemoTesting\obj\Debug\netcoreapp3.0\DemoTesting.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\DemoTesting\obj\Debug\netcoreapp3.0\DemoTesting.pdb

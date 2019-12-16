@@ -1,0 +1,10 @@
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.0\4. Symbol in Matrix.exe
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.0\4. Symbol in Matrix.deps.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.0\4. Symbol in Matrix.runtimeconfig.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.0\4. Symbol in Matrix.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.0\4. Symbol in Matrix.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.0\4. Symbol in Matrix.pdb
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.0\4. Symbol in Matrix.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.0\4. Symbol in Matrix.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.0\4. Symbol in Matrix.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.0\4. Symbol in Matrix.pdb

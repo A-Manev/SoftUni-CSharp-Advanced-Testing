@@ -1,0 +1,10 @@
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp2.2\1. Reverse Strings.deps.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp2.2\1. Reverse Strings.runtimeconfig.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp2.2\1. Reverse Strings.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp2.2\1. Reverse Strings.dll
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp2.2\1. Reverse Strings.pdb
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp2.2\1. Reverse Strings.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp2.2\1. Reverse Strings.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp2.2\1. Reverse Strings.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp2.2\1. Reverse Strings.dll
+D:\C# Advanced - септември 2019\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp2.2\1. Reverse Strings.pdb

@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.0\12. Cups and Bottles.exe
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.0\12. Cups and Bottles.deps.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.0\12. Cups and Bottles.runtimeconfig.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.0\12. Cups and Bottles.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.0\12. Cups and Bottles.dll
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.0\12. Cups and Bottles.pdb
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.0\12. Cups and Bottles.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.0\12. Cups and Bottles.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.0\12. Cups and Bottles.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.0\12. Cups and Bottles.dll
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.0\12. Cups and Bottles.pdb

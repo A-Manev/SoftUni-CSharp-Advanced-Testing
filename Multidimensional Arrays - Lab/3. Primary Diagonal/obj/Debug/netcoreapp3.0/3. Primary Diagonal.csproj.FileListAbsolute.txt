@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.0\3. Primary Diagonal.exe
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.0\3. Primary Diagonal.deps.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.0\3. Primary Diagonal.runtimeconfig.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.0\3. Primary Diagonal.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.0\3. Primary Diagonal.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.0\3. Primary Diagonal.pdb
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.0\3. Primary Diagonal.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.0\3. Primary Diagonal.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.0\3. Primary Diagonal.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.0\3. Primary Diagonal.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.0\3. Primary Diagonal.pdb

@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp3.0\08. Balanced Parenthesis.exe
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp3.0\08. Balanced Parenthesis.deps.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp3.0\08. Balanced Parenthesis.runtimeconfig.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp3.0\08. Balanced Parenthesis.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp3.0\08. Balanced Parenthesis.dll
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp3.0\08. Balanced Parenthesis.pdb
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp3.0\08. Balanced Parenthesis.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp3.0\08. Balanced Parenthesis.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp3.0\08. Balanced Parenthesis.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp3.0\08. Balanced Parenthesis.dll
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp3.0\08. Balanced Parenthesis.pdb

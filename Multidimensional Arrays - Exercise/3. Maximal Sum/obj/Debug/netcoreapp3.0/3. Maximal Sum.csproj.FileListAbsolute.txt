@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.0\3. Maximal Sum.exe
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.0\3. Maximal Sum.deps.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.0\3. Maximal Sum.runtimeconfig.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.0\3. Maximal Sum.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.0\3. Maximal Sum.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.0\3. Maximal Sum.pdb
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.0\3. Maximal Sum.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.0\3. Maximal Sum.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.0\3. Maximal Sum.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.0\3. Maximal Sum.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.0\3. Maximal Sum.pdb

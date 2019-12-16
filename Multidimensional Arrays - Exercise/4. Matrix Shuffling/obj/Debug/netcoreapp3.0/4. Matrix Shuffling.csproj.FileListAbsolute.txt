@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.0\4. Matrix Shuffling.exe
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.0\4. Matrix Shuffling.deps.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.0\4. Matrix Shuffling.runtimeconfig.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.0\4. Matrix Shuffling.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.0\4. Matrix Shuffling.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.0\4. Matrix Shuffling.pdb
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.0\4. Matrix Shuffling.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.0\4. Matrix Shuffling.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.0\4. Matrix Shuffling.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.0\4. Matrix Shuffling.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.0\4. Matrix Shuffling.pdb

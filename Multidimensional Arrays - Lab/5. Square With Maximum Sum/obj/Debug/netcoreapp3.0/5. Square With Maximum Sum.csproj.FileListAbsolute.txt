@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.0\5. Square With Maximum Sum.exe
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.0\5. Square With Maximum Sum.deps.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.0\5. Square With Maximum Sum.runtimeconfig.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.0\5. Square With Maximum Sum.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.0\5. Square With Maximum Sum.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.0\5. Square With Maximum Sum.pdb
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.0\5. Square With Maximum Sum.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.0\5. Square With Maximum Sum.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.0\5. Square With Maximum Sum.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.0\5. Square With Maximum Sum.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.0\5. Square With Maximum Sum.pdb

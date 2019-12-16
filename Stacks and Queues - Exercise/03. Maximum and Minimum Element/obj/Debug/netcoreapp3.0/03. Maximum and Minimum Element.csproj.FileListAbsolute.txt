@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.0\03. Maximum and Minimum Element.exe
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.0\03. Maximum and Minimum Element.deps.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.0\03. Maximum and Minimum Element.runtimeconfig.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.0\03. Maximum and Minimum Element.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.0\03. Maximum and Minimum Element.dll
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.0\03. Maximum and Minimum Element.pdb
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.0\03. Maximum and Minimum Element.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.0\03. Maximum and Minimum Element.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.0\03. Maximum and Minimum Element.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.0\03. Maximum and Minimum Element.dll
+D:\C# Advanced - септември 2019\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.0\03. Maximum and Minimum Element.pdb
