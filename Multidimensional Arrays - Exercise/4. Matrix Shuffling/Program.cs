@@ -37,42 +37,40 @@ namespace _4._Matrix_Shuffling
                     break;
                 }
 
-                if (input[0] == ("swap"))
+                if (input[0] == "swap" && input.Length == 5)
                 {
-                    //string[] commandArguments = input
-                    //    .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-
                     int row1 = int.Parse(input[1]);
                     int col1 = int.Parse(input[2]);
                     int row2 = int.Parse(input[3]);
                     int col2 = int.Parse(input[4]);
 
-                    if (row1 < 0 || row1 >= matrix.GetLength(0) ||
-                        col1 < 0 || col1 >= matrix.GetLength(1) ||
-                        row2 < 0 || row2 >= matrix.GetLength(0) ||
-                        col2 < 0 || col2 >= matrix.GetLength(1))
+                    if (row1 >= 0 && row1 < matrix.GetLength(0) &&
+                        col1 >= 0 && col1 < matrix.GetLength(1) &&
+                        row2 >= 0 && row2 < matrix.GetLength(0) &&
+                        col2 >= 0 && col2 < matrix.GetLength(1))
+                    {
+                        var elementOne = matrix[row1, col1];
+                        var elementTwo = matrix[row2, col2];
+
+                        matrix[row1, col1] = elementTwo;
+                        matrix[row2, col2] = elementOne;
+
+                        PrintMatrix(matrix);
+                    }
+                    else
                     {
                         Console.WriteLine("Invalid input!");
                         continue;
                     }
-
-                    var elementOne = matrix[row1, col1];
-                    var elementTwo = matrix[row2, col2];
-
-                    matrix[row1, col1] = elementTwo;
-                    matrix[row2, col2] = elementOne;
-
-                    PrintMatrix(matrix);
                 }
                 else
                 {
                     Console.WriteLine("Invalid input!");
                 }
             }
-
         }
 
-        private static void PrintMatrix(string[,] matrix)
+        public static void PrintMatrix(string[,] matrix)
         {
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
