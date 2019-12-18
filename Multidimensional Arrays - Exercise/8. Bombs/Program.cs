@@ -15,11 +15,23 @@ namespace _8._Bombs
 
             string[] bombs = Console.ReadLine()
                 .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+
             InitializeBombCoordinates(matrix, bombs);
 
             PrintMatrixInfo(matrix);
 
             PrintMatrix(matrix);
+        }
+
+        private static void InitializeMatrix(int[][] matrix)
+        {
+            for (int row = 0; row < matrix.Length; row++)
+            {
+                matrix[row] = Console.ReadLine()
+                    .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                    .Select(int.Parse)
+                    .ToArray();
+            }
         }
 
         private static void InitializeBombCoordinates(int[][] matrix, string[] bombs)
@@ -38,20 +50,10 @@ namespace _8._Bombs
             }
         }
 
-        private static void InitializeMatrix(int[][] matrix)
-        {
-            for (int row = 0; row < matrix.Length; row++)
-            {
-                matrix[row] = Console.ReadLine()
-                    .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
-                    .Select(int.Parse)
-                    .ToArray();
-            }
-        }
-
         private static void BombCells(int[][] matrix, int row, int col)
         {
             int bombPower = matrix[row][col];
+
             if (bombPower > 0)
             {
                 isInside(matrix, row - 1, col - 1, bombPower);
