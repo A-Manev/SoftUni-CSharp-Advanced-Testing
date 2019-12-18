@@ -5,7 +5,7 @@ namespace _7._Knight_Game
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int rows = int.Parse(Console.ReadLine());
 
@@ -15,6 +15,7 @@ namespace _7._Knight_Game
             {
                 matrix[row] = Console.ReadLine().ToCharArray().Where(x => x != ' ').ToArray();
             }
+
             int knightCount = 0;
             int maxAttacks = 0;
             int killerRow = 0;
@@ -28,58 +29,7 @@ namespace _7._Knight_Game
                 {
                     for (int col = 0; col < matrix[row].Length; col++)
                     {
-                        int currentKnightsAttacks = 0;
-
-                        if (matrix[row][col] == 'K')
-                        {
-                            //down and right -> row + 2 , col + 1
-                            if (IsInside(matrix, row + 2, col + 1) && matrix[row + 2][col + 1] == 'K')
-                            {
-                                currentKnightsAttacks++;
-                            }
-
-                            // down and left -> row + 2 , col - 1
-                            if (IsInside(matrix, row + 2, col - 1) && matrix[row + 2][col - 1] == 'K')
-                            {
-                                currentKnightsAttacks++;
-                            }
-
-                            //up and right -> row - 2 , col + 1
-                            if (IsInside(matrix, row - 2, col + 1) && matrix[row - 2][col + 1] == 'K')
-                            {
-                                currentKnightsAttacks++;
-                            }
-
-                            //up and left -> row - 2 , col - 1
-                            if (IsInside(matrix, row - 2, col - 1) && matrix[row - 2][col - 1] == 'K')
-                            {
-                                currentKnightsAttacks++;
-                            }
-
-                            // left and up -> col + 2 , row  - 1
-                            if (IsInside(matrix, row - 1, col - 2) && matrix[row - 1][col - 2] == 'K')
-                            {
-                                currentKnightsAttacks++;
-                            }
-
-                            // left and down -> col + 2 , row  + 1
-                            if (IsInside(matrix, row + 1, col - 2) && matrix[row + 1][col - 2] == 'K')
-                            {
-                                currentKnightsAttacks++;
-                            }
-
-                            // right and up -> col + 2 , row  - 1
-                            if (IsInside(matrix, row - 1, col + 2) && matrix[row - 1][col + 2] == 'K')
-                            {
-                                currentKnightsAttacks++;
-                            }
-
-                            // right and down -> col + 2 , row  + 1
-                            if (IsInside(matrix, row + 1, col + 2) && matrix[row + 1][col + 2] == 'K')
-                            {
-                                currentKnightsAttacks++;
-                            }
-                        }
+                        int currentKnightsAttacks = KnightCells(matrix, row, col);
 
                         if (currentKnightsAttacks > maxAttacks)
                         {
@@ -103,10 +53,50 @@ namespace _7._Knight_Game
             }
         }
 
-        private static bool IsInside(char[][] matrix, int row, int col)
+        private static int KnightCells(char[][] matrix, int row, int col)
         {
-            return row >= 0 && row < matrix.Length &&
-           col >= 0 && col < matrix[row].Length;
+            int currentKnightsAttacks = 0;
+
+            if (matrix[row][col] == 'K')
+            {
+                //down and right -> row + 2 , col + 1
+                currentKnightsAttacks += IsInside(matrix, row + 2, col + 1);
+
+                // down and left -> row + 2 , col - 1
+                currentKnightsAttacks += IsInside(matrix, row + 2, col - 1);
+
+                //up and right -> row - 2 , col + 1
+                currentKnightsAttacks += IsInside(matrix, row - 2, col + 1);
+
+                //up and left -> row - 2 , col - 1
+                currentKnightsAttacks += IsInside(matrix, row - 2, col - 1);
+
+                // left and up -> col + 2 , row  - 1
+                currentKnightsAttacks += IsInside(matrix, row - 1, col - 2);
+
+                // left and down -> col + 2 , row  + 1
+                currentKnightsAttacks += IsInside(matrix, row + 1, col - 2);
+
+                // right and up -> col + 2 , row  - 1
+                currentKnightsAttacks += IsInside(matrix, row - 1, col + 2);
+
+                // right and down -> col + 2 , row  + 1
+                currentKnightsAttacks += IsInside(matrix, row + 1, col + 2);
+            }
+
+            return currentKnightsAttacks;
+        }
+
+        private static int IsInside(char[][] matrix, int row, int col)
+        {
+            if (row >= 0 && row < matrix.Length &&
+                col >= 0 && col < matrix[row].Length &&
+                matrix[row][col] == 'K')
+            {
+                return 1;
+            }
+
+            return 0;
         }
     }
 }
