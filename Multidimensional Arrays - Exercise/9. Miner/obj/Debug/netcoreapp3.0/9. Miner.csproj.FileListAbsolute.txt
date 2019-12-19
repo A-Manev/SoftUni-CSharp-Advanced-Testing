@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\netcoreapp3.0\9. Miner.exe
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\netcoreapp3.0\9. Miner.deps.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\netcoreapp3.0\9. Miner.runtimeconfig.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\netcoreapp3.0\9. Miner.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\netcoreapp3.0\9. Miner.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\netcoreapp3.0\9. Miner.pdb
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\netcoreapp3.0\9. Miner.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\netcoreapp3.0\9. Miner.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\netcoreapp3.0\9. Miner.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\netcoreapp3.0\9. Miner.dll
+D:\C# Advanced - септември 2019\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\netcoreapp3.0\9. Miner.pdb
