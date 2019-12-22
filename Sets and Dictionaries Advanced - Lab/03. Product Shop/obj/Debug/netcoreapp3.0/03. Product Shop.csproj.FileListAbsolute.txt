@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.0\03. Product Shop.exe
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.0\03. Product Shop.deps.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.0\03. Product Shop.runtimeconfig.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.0\03. Product Shop.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.0\03. Product Shop.dll
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.0\03. Product Shop.pdb
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.0\03. Product Shop.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.0\03. Product Shop.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.0\03. Product Shop.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.0\03. Product Shop.dll
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.0\03. Product Shop.pdb
