@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.0\01. Unique Usernames.exe
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.0\01. Unique Usernames.deps.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.0\01. Unique Usernames.runtimeconfig.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.0\01. Unique Usernames.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.0\01. Unique Usernames.dll
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.0\01. Unique Usernames.pdb
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.0\01. Unique Usernames.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.0\01. Unique Usernames.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.0\01. Unique Usernames.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.0\01. Unique Usernames.dll
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.0\01. Unique Usernames.pdb
