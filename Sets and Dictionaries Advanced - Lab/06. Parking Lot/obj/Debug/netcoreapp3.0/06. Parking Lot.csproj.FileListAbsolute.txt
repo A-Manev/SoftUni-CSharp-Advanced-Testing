@@ -1,0 +1,10 @@
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.0\06. Parking Lot.exe
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.0\06. Parking Lot.deps.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.0\06. Parking Lot.runtimeconfig.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.0\06. Parking Lot.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.0\06. Parking Lot.dll
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.0\06. Parking Lot.pdb
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.0\06. Parking Lot.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.0\06. Parking Lot.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.0\06. Parking Lot.dll
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.0\06. Parking Lot.pdb
