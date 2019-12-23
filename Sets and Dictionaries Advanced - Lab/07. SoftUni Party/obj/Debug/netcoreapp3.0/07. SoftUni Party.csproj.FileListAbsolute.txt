@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.0\07. SoftUni Party.exe
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.0\07. SoftUni Party.deps.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.0\07. SoftUni Party.runtimeconfig.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.0\07. SoftUni Party.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.0\07. SoftUni Party.dll
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.0\07. SoftUni Party.pdb
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.0\07. SoftUni Party.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.0\07. SoftUni Party.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.0\07. SoftUni Party.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.0\07. SoftUni Party.dll
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.0\07. SoftUni Party.pdb
