@@ -1,0 +1,10 @@
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.0\04. Even Times.exe
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.0\04. Even Times.deps.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.0\04. Even Times.runtimeconfig.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.0\04. Even Times.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.0\04. Even Times.dll
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.0\04. Even Times.pdb
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp3.0\04. Even Times.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp3.0\04. Even Times.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp3.0\04. Even Times.dll
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp3.0\04. Even Times.pdb
