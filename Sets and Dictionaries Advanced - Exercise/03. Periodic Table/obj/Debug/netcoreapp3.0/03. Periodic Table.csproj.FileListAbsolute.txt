@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.0\03. Periodic Table.exe
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.0\03. Periodic Table.deps.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.0\03. Periodic Table.runtimeconfig.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.0\03. Periodic Table.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.0\03. Periodic Table.dll
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.0\03. Periodic Table.pdb
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.0\03. Periodic Table.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.0\03. Periodic Table.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.0\03. Periodic Table.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.0\03. Periodic Table.dll
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.0\03. Periodic Table.pdb
