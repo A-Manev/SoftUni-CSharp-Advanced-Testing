@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.0\08. Ranking.exe
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.0\08. Ranking.deps.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.0\08. Ranking.runtimeconfig.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.0\08. Ranking.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.0\08. Ranking.dll
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.0\08. Ranking.pdb
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.0\08. Ranking.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.0\08. Ranking.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.0\08. Ranking.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.0\08. Ranking.dll
+D:\C# Advanced - септември 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.0\08. Ranking.pdb
