@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.0\03. Count Uppercase Words.exe
+D:\C# Advanced - септември 2019\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.0\03. Count Uppercase Words.deps.json
+D:\C# Advanced - септември 2019\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.0\03. Count Uppercase Words.runtimeconfig.json
+D:\C# Advanced - септември 2019\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.0\03. Count Uppercase Words.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.0\03. Count Uppercase Words.dll
+D:\C# Advanced - септември 2019\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.0\03. Count Uppercase Words.pdb
+D:\C# Advanced - септември 2019\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.0\03. Count Uppercase Words.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.0\03. Count Uppercase Words.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.0\03. Count Uppercase Words.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.0\03. Count Uppercase Words.dll
+D:\C# Advanced - септември 2019\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.0\03. Count Uppercase Words.pdb
