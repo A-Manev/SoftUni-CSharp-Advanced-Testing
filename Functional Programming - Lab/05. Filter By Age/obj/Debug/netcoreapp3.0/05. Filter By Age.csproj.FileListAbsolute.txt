@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.0\05. Filter By Age.exe
+D:\C# Advanced - септември 2019\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.0\05. Filter By Age.deps.json
+D:\C# Advanced - септември 2019\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.0\05. Filter By Age.runtimeconfig.json
+D:\C# Advanced - септември 2019\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.0\05. Filter By Age.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.0\05. Filter By Age.dll
+D:\C# Advanced - септември 2019\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.0\05. Filter By Age.pdb
+D:\C# Advanced - септември 2019\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.0\05. Filter By Age.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.0\05. Filter By Age.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.0\05. Filter By Age.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.0\05. Filter By Age.dll
+D:\C# Advanced - септември 2019\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.0\05. Filter By Age.pdb
