@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.0\04. Add VAT.exe
+D:\C# Advanced - септември 2019\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.0\04. Add VAT.deps.json
+D:\C# Advanced - септември 2019\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.0\04. Add VAT.runtimeconfig.json
+D:\C# Advanced - септември 2019\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.0\04. Add VAT.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.0\04. Add VAT.dll
+D:\C# Advanced - септември 2019\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.0\04. Add VAT.pdb
+D:\C# Advanced - септември 2019\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.0\04. Add VAT.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.0\04. Add VAT.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.0\04. Add VAT.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.0\04. Add VAT.dll
+D:\C# Advanced - септември 2019\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.0\04. Add VAT.pdb
