@@ -1,0 +1,10 @@
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.0\03. Custom Min Function.exe
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.0\03. Custom Min Function.deps.json
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.0\03. Custom Min Function.runtimeconfig.json
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.0\03. Custom Min Function.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.0\03. Custom Min Function.dll
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.0\03. Custom Min Function.pdb
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.0\03. Custom Min Function.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.0\03. Custom Min Function.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.0\03. Custom Min Function.dll
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.0\03. Custom Min Function.pdb
