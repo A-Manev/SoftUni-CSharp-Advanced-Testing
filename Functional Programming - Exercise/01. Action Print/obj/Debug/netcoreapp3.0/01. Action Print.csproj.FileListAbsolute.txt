@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.0\01. Action Print.exe
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.0\01. Action Print.deps.json
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.0\01. Action Print.runtimeconfig.json
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.0\01. Action Print.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.0\01. Action Print.dll
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.0\01. Action Print.pdb
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.0\01. Action Print.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.0\01. Action Print.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.0\01. Action Print.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.0\01. Action Print.dll
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.0\01. Action Print.pdb
