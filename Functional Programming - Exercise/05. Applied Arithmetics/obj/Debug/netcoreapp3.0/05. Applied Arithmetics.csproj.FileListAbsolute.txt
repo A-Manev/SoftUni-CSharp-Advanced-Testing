@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.0\05. Applied Arithmetics.exe
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.0\05. Applied Arithmetics.deps.json
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.0\05. Applied Arithmetics.runtimeconfig.json
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.0\05. Applied Arithmetics.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.0\05. Applied Arithmetics.dll
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.0\05. Applied Arithmetics.pdb
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.0\05. Applied Arithmetics.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.0\05. Applied Arithmetics.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.0\05. Applied Arithmetics.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.0\05. Applied Arithmetics.dll
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.0\05. Applied Arithmetics.pdb
