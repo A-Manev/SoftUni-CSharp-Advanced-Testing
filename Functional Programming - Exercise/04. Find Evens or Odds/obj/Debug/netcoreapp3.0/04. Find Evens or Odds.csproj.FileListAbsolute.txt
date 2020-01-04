@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.0\04. Find Evens or Odds.exe
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.0\04. Find Evens or Odds.deps.json
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.0\04. Find Evens or Odds.runtimeconfig.json
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.0\04. Find Evens or Odds.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.0\04. Find Evens or Odds.dll
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.0\04. Find Evens or Odds.pdb
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\netcoreapp3.0\04. Find Evens or Odds.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\netcoreapp3.0\04. Find Evens or Odds.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\netcoreapp3.0\04. Find Evens or Odds.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\netcoreapp3.0\04. Find Evens or Odds.dll
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\netcoreapp3.0\04. Find Evens or Odds.pdb
