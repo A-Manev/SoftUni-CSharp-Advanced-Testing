@@ -1,0 +1,11 @@
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.0\06. Reverse And Exclude.exe
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.0\06. Reverse And Exclude.deps.json
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.0\06. Reverse And Exclude.runtimeconfig.json
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.0\06. Reverse And Exclude.runtimeconfig.dev.json
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.0\06. Reverse And Exclude.dll
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.0\06. Reverse And Exclude.pdb
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.0\06. Reverse And Exclude.csprojAssemblyReference.cache
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.0\06. Reverse And Exclude.AssemblyInfoInputs.cache
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.0\06. Reverse And Exclude.AssemblyInfo.cs
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.0\06. Reverse And Exclude.dll
+D:\C# Advanced - септември 2019\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.0\06. Reverse And Exclude.pdb
